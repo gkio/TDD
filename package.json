@@ -7,6 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "start": "esno src/main.ts",
     "test": "ava",
     "test:watch": "ava --watch"
   },
