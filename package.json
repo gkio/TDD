@@ -1,7 +1,7 @@
 {
   "name": "@gkio/tdd",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/main.ts",
   "repository": "git@github.com:gkio/TDD.git",
   "author": "@gkio",
   "license": "MIT",
