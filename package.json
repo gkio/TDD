@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "esno src/main.ts",
+    "start": "esno watch src/main.ts ",
     "test": "vitest",
     "bench": "vitest bench"
   },
